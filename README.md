@@ -7,6 +7,9 @@ We examine the implementation of behavioural biometric CA using wearable sensors
 We demonstrate our methods on a public dataset recorded specifically for industrial collaborative robotic applications ( we use only glove Data)
 You may access the full data set from [here](https://zenodo.org/record/1472214#.YxbnJuxBy8o).
 
+For further information on this implementation, please refer to our paper " [Continuous User Authentication for Human-Robot Collaboration
+](https://dl.acm.org/doi/abs/10.1145/3465481.3470025)".
+
 # (A) Requirement
 1. 
 2.
