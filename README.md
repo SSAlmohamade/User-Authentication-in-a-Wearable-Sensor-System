@@ -8,18 +8,17 @@ We demonstrate our methods on a public dataset recorded specifically for industr
 You may access the full data set from [here](https://zenodo.org/record/1472214#.YxbnJuxBy8o).
 
 # (A) Requirement
-1. KUKA iiwa 7 R800 manipulator and control cabinet
+1. 
 2.
 3. 
 
 # (B) Install required libraries
 Python 2.7 is used. 
 1. NumPy
-2. scikit-learn
-3. scipy.spatial.distance 
-4. time
-5. os
-6. csv
-7. math
+2. tsfel
+3. CSV
+4. pandas
+5. scipy
+
 
 # (c) Repository hierarchy
